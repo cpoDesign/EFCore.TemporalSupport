@@ -10,7 +10,8 @@
     <RepositoryUrl>https://github.com/cpoDesign/EFCore.TemporalSupport</RepositoryUrl>
     <RepositoryType></RepositoryType>
     <PackageTags>EFCore Temporal Tables</PackageTags>
-    <Description>Extension enabling users of entity framework to implemnent temporal support</Description>
+    <Documentation>https://raw.githubusercontent.com/cpoDesign/EFCore.TemporalSupport/master/README.md</Documentation>
+      <Description>Extension enabling users of entity framework to implemnent temporal support</Description>
     <PackageReleaseNotes>Updated pository url for link</PackageReleaseNotes>
   </PropertyGroup>
 
