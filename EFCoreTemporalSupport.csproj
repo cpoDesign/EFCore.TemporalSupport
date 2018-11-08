@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>EFCoreTemporalSupport</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Pavel Svarc, Benjamin Marshalsea</Authors>
+    <PackageId>EFCoreTemporalSupport</PackageId>
+    <PackageLicenseUrl>https://github.com/cpoDesign/EFCore.TemporalSupport/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/cpoDesign/EFCore.TemporalSuppor</RepositoryUrl>
+    <RepositoryType></RepositoryType>
+    <PackageTags>EFCore Temporal Tables</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
