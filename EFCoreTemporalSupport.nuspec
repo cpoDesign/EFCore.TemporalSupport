@@ -9,6 +9,7 @@
         <description>Extension methods for EFCore Temporal table support</description>
         <language>en-GB</language>
         <tags>EFCore Temporal Tables</tags>
+      <documentation src="https://raw.githubusercontent.com/cpoDesign/EFCore.TemporalSupport/master/README.md" />
     </metadata>
     <files>        
       <file src="bin\Release\netstandard2.0\EFCoreTemporalSupport.dll" target="lib\netstandard2.0\EFCoreTemporalSupport.dll" />
