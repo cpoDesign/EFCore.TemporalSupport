@@ -22,7 +22,7 @@ namespace EFCoreTemporalSupport
                             , PERIOD FOR SYSTEM_TIME (ValidFrom, ValidTo);   
  
                         ALTER TABLE [{schemaName}].[{tableName}]
-                        SET (SYSTEM_VERSIONING = ON (HISTORY_TABLE = {temporalScheme}.{temporalTableName})); 
+                        SET (SYSTEM_VERSIONING = ON (HISTORY_TABLE = [{temporalScheme}].[{temporalTableName}])); 
                     END
                 ");
         }
