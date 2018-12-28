@@ -8,14 +8,9 @@ An implementation of temporal support for EF Core.
 |Badge type| Current status|
 | --- | --- |
 |**Build status**| [![Build status](https://cpodesign.visualstudio.com/PB/_apis/build/status/EFCoreTemporalSupport%20-%20Packaging)](https://cpodesign.visualstudio.com/PB/_build/latest?definitionId=28) |
-|**NuGet**| [![nuget](https://img.shields.io/nuget/v/EFCoreTemporalSupport%20-%20Packaging.svg)](https://www.nuget.org/packages/EFCoreTemporalSupport%20-%20Packaging/)|
+|**NuGet**| [![nuget](https://img.shields.io/nuget/v/EFCoreTemporalSupport.svg)](https://www.nuget.org/packages/EFCoreTemporalSupport)|
 |**Open Cover**| [![Coverage Status](https://coveralls.io/repos/github/cpoDesign/APIFramework/badge.svg?branch=master)](https://coveralls.io/github/cpoDesign/APIFramework?branch=master)|
 |**DepShield Badge**|[![DepShield Badge](https://depshield.sonatype.org/badges/cpoDesign/APIFramework/depshield.svg)](https://depshield.github.io)
-
-
-## Nuget package link:
-
-[<https://www.nuget.org/packages/EFCoreTemporalSupport/>]
 
 # Guide
  The following package supports the following methods:
