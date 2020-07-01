@@ -31,7 +31,7 @@ Recommendation is to add a new migration file for instance:
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.EnsureSchema(name: <SchemaName);
+            migrationBuilder.EnsureSchema(name: <SchemaName>);
             migrationBuilder.RemoveAsTemporalTable(this.TargetModel.FindEntityType(typeof(<ModelType).Name), <SchemaName>);
         }
     }
